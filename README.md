@@ -2,9 +2,9 @@
 
 A game inspired by space invaders where the goal is to score the most points you can while avoiding enemy unites and projectiles.
 
-The project was made with python using the pygame library.
-Graphics made by https://www.alekk.art/.
-Music and coding done by me.
+- The project was made with python using the pygame library.
+- Graphics made by https://www.alekk.art/.
+- Music and coding done by me.
 
 ## Game screenshots
 
